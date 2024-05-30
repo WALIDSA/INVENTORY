@@ -1,5 +1,8 @@
-The Smart Inventory Management System is designed to help small and medium-sized businesses automate and optimize their inventory processes. This system aims to reduce manual errors, save time, and provide real-time inventory insights.
+The Smart Inventory Management System is designed to help small and medium-sized businesses automate and optimize their inventory processes. 
+This system aims to reduce manual errors, save time, and provide real-time inventory insights.
+
 -Architecture Breakdown:
+
 Frontend: HTML for user interface
 Backend: Python and Django framework
 Database: SQLite (default with Django)
